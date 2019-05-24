@@ -1,0 +1,14 @@
+E:\VSProject\ChangeTemplate\ChangeTemplate\bin\Debug\ChangeTemplate.exe.config
+E:\VSProject\ChangeTemplate\ChangeTemplate\bin\Debug\ChangeTemplate.exe
+E:\VSProject\ChangeTemplate\ChangeTemplate\bin\Debug\ChangeTemplate.pdb
+E:\VSProject\ChangeTemplate\ChangeTemplate\obj\Debug\ChangeTemplate.csprojResolveAssemblyReference.cache
+E:\VSProject\ChangeTemplate\ChangeTemplate\obj\Debug\MainWindow.g.cs
+E:\VSProject\ChangeTemplate\ChangeTemplate\obj\Debug\App.g.cs
+E:\VSProject\ChangeTemplate\ChangeTemplate\obj\Debug\ChangeTemplate_MarkupCompile.cache
+E:\VSProject\ChangeTemplate\ChangeTemplate\obj\Debug\ChangeTemplate_MarkupCompile.lref
+E:\VSProject\ChangeTemplate\ChangeTemplate\obj\Debug\MainWindow.baml
+E:\VSProject\ChangeTemplate\ChangeTemplate\obj\Debug\ChangeTemplate.g.resources
+E:\VSProject\ChangeTemplate\ChangeTemplate\obj\Debug\ChangeTemplate.Properties.Resources.resources
+E:\VSProject\ChangeTemplate\ChangeTemplate\obj\Debug\ChangeTemplate.csproj.GenerateResource.Cache
+E:\VSProject\ChangeTemplate\ChangeTemplate\obj\Debug\ChangeTemplate.exe
+E:\VSProject\ChangeTemplate\ChangeTemplate\obj\Debug\ChangeTemplate.pdb
