@@ -1,4 +1,4 @@
-# -unity-
+# changeNameSpace quickly Tool
 给unity制作一键更改脚本命名空间的程序
 vs2015
 在导出的exe同级目录下 需要放置有命名空间和无命名空间的模板
